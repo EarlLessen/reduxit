@@ -4,8 +4,9 @@ A React Native example using Typescript + Redux.
 
 ## Installation
 
-Navigate to your local project directory and clone the repository.
 ````
+on your Terminal git clone https://github.com/EarlLessen/reduxit
+
 cd ios && pod install
 
 npx react-native start
