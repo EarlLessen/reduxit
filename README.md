@@ -8,6 +8,7 @@ Using your terminal:
 
 ````
 git clone https://github.com/EarlLessen/reduxit
+npm install
 cd ios && pod install
 npx react-native start
 npx react-native run-ios
