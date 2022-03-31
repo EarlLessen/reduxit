@@ -5,12 +5,11 @@ A React Native example using Typescript + Redux.
 ## Installation
 
 ````
-on your Terminal git clone https://github.com/EarlLessen/reduxit
+on your Terminal: 
 
+git clone https://github.com/EarlLessen/reduxit
 cd ios && pod install
-
 npx react-native start
-
 npx react-native run-ios
 ````
 
